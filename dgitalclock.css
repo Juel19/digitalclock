@@ -1,0 +1,30 @@
+
+#clock {
+    font-size: 3rem;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  #clock span {
+    padding: 0.5rem;
+    /* background-color: #333; */
+    color: #17d4fe;
+    /* border-radius: 0.5rem; */
+    font-size: 150px;
+    font-weight: 800;
+  }
+
+  #date{
+    font-size: 50px;
+  }
+
+  #day{
+    font-size: 50px;
+    color: white;
+  }
+
+
+  
